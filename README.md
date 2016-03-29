@@ -1,4 +1,4 @@
 # RandomForest
 
 
-Analysis of Titanic data set with RandomForest a algorithm
+Analysis of Titanic data set with RandomForest algorithm
